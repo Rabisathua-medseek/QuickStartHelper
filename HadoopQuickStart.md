@@ -134,7 +134,7 @@ sudo chown -R **user_name** /usr/local/hadoop
 
 * start hadoop
 ```
-cd /usr/local/Hadoop/bin/
+cd /usr/local/Hadoop/sbin/
 ./start-all.sh
 ```
 
