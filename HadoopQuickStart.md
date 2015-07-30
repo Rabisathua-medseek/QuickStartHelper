@@ -80,7 +80,7 @@ Once done, the next step is to configure Hadoop. All Hadoop configurations files
 ```
 <configuration>
 <property>
-</name>hadoop.tmp.dir</name>
+<name>hadoop.tmp.dir</name>
 <value>/app/hadoop/tmp</value>
 <description>A base for other temporary directories.</description>
 </property>
